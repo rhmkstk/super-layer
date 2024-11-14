@@ -19,8 +19,9 @@
     "vue": "latest"
   },
   "dependencies": {
-    "@nuxtjs/tailwindcss": "^6.12.2",
+    "@lui-ui/lui-nuxt": "^0.1.0",
+    "@lui-ui/lui-tailwindcss": "^0.1.1",
     "@lui-ui/lui-vue": "^1.0.12",
-    "@lui-ui/lui-tailwindcss": "^0.1.1"
+    "@nuxtjs/tailwindcss": "^6.12.2"
   }
 }
