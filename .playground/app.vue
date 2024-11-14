@@ -1,3 +1,6 @@
+<script>
+
+</script>
 <template>
   <div>HEY!</div>
   <LuiButton size="lg" block>This is my button!</LuiButton>

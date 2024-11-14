@@ -910,20 +910,12 @@
   resolved "https://registry.yarnpkg.com/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz#8ace5259254426ccef57f3175bc64ed7095ed919"
   integrity sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==
 
-"@lui-ui/lui-nuxt@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@lui-ui/lui-nuxt/-/lui-nuxt-0.1.0.tgz#f79eea18eed0da43f2f7f62885d9812db560858c"
-  integrity sha512-DN+jQYPsSYWP8/OyW+DAlwQQLWfAxORdiQFcyJoK5lOH+0tF3z/igkq8NzXwXvDc2ismdPIltOJj7FtB890yaA==
-  dependencies:
-    "@lui-ui/lui-vue" latest
-    "@nuxt/kit" "^3.9.3"
-
 "@lui-ui/lui-tailwindcss@^0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@lui-ui/lui-tailwindcss/-/lui-tailwindcss-0.1.1.tgz#58a40d8ccea559a1df47b33e66a5e102f4d1c010"
   integrity sha512-eywZnt8xhC2lns6+k6IUh22VdSu568yir2lwN2tQHeiMJABqS0koMnhf2o+vixj9wKOmfdDXy/JOZTG1w/z3Lg==
 
-"@lui-ui/lui-vue@^1.0.12", "@lui-ui/lui-vue@latest":
+"@lui-ui/lui-vue@^1.0.12":
   version "1.0.12"
   resolved "https://registry.yarnpkg.com/@lui-ui/lui-vue/-/lui-vue-1.0.12.tgz#bdd35b33077b0be5f0d0be47e2214f83f8516b85"
   integrity sha512-Arothhi2LkvOc240RSvNsLB0jyro8yvDh0AjhdReIMwUnXUnQsmEnD5M+Za7t1HalQflVMTTI48k4neWHnA/Qw==
@@ -1141,7 +1133,7 @@
     pathe "^1.1.2"
     unimport "^3.13.1"
 
-"@nuxt/kit@3.14.159", "@nuxt/kit@^3.13.1", "@nuxt/kit@^3.13.2", "@nuxt/kit@^3.9.3":
+"@nuxt/kit@3.14.159", "@nuxt/kit@^3.13.1", "@nuxt/kit@^3.13.2":
   version "3.14.159"
   resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.14.159.tgz#1b856bd5ed75c97e425a0b57dacfe476990a6863"
   integrity sha512-ZqxsCI1NKV/gjfEUUZjMcr82sg0MKYZOuyB6bu9QY5Zr7NGpfIZY/z5Z822AKTmFxKGChnuz9M0UaS4ze6p42g==
